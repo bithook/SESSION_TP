@@ -31,12 +31,8 @@
 		<span class="aurevoir">
 			Thank you for your order. Aurevoir!
 		</span>
+		<a href="logout.php"><button class="logout">logout</button></a>
 	<?php endif ?>
-
-
-
-
-
 
 </body>
 </html>
