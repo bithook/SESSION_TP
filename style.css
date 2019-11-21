@@ -1,0 +1,16 @@
+.logo
+{
+	color: white;
+	background: #868e96;
+	padding: .25em .4em;
+	border-radius: .25rem;
+	float: right;
+	margin-bottom: 5px;
+}
+
+.clear
+{
+	clear: both;
+	border-bottom: 2px solid #F00;
+	margin-top: 2px;
+}
